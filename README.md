@@ -36,7 +36,7 @@ Meu objetivo é aprender **modelagem de dados e manipulação de bancos de dados
 
 ---
 
-## 🧠 Conteúdos estudados
+## 🧠 Conteúdos a serem estudados
 
 ✔ Criação de bancos de dados  
 ✔ Criação de tabelas  
